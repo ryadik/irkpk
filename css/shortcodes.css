@@ -1461,19 +1461,36 @@
 
 
 @media only screen and (max-width: 479px) {
-	
-			
+
+
 	.clapat-button {
-    	margin-bottom: 20px;
+		margin-bottom: 20px;
 	}
-	
+
 	.text-carousel {
-    	max-width: 280px;
+		max-width: 280px;
 	}
-	
+
 	.text-carousel .owl-prev, .text-carousel .owl-next {
 		margin: 0;
 	}
-		
-}			
-	
+
+}
+
+.dash-li {
+	position: relative;
+	padding: 0 0 0 25px;
+}
+
+.dash-li::before {
+	content: '—';
+	display: block;
+	color: #999;
+	position: absolute;
+	top: 4px;
+	left: 0;
+}
+
+.grecaptcha-badge {
+	display: none;
+}
