@@ -5,7 +5,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-	<title>404 &#x2d; Smitana</title>
+	<title>404 &#x2d; IRKPK</title>
 <meta name="robots" content="max-image-preview:large">
 
 <!-- The SEO Framework Создано Сибрэ Вайэр -->
@@ -14,10 +14,8 @@
 
 <link rel="dns-prefetch" href="//www.google.com">
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
-<link rel="alternate" type="application/rss+xml" title="Smitana &raquo; Лента" href="http://smitana.ru/feed/">
-<link rel="alternate" type="application/rss+xml" title="Smitana &raquo; Лента комментариев" href="http://smitana.ru/comments/feed/">
 <script type="text/javascript">
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/smitana.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/irkpk.ru\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
 /*! This file is auto-generated */
 !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
 </script>
@@ -56,12 +54,9 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="colega-secondary-font-css" href="//fonts.googleapis.com/css?family=Oswald%3A400%2C700&amp;ver=1.0.0" type="text/css" media="all">
 <script type="text/javascript" src="../js/jquery.min.js" id="jquery-core-js"></script>
 <script type="text/javascript" src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
-<link rel="https://api.w.org/" href="http://smitana.ru/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://smitana.ru/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://smitana.ru/wp-includes/wlwmanifest.xml">
 <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="cropped-icon-32x32.png" sizes="32x32">
 <link rel="icon" href="cropped-icon-192x192.png" sizes="192x192">
 <link rel="apple-touch-icon" href="cropped-icon-180x180.png">
-<meta name="msapplication-TileImage" content="http://smitana.ru/wp-content/uploads/2021/03/cropped-icon-270x270.png">
 	<script type="text/javascript">var x1,x2,x3,x4,x5,x6,x7; x1='<a
 href="'; x1+='mai'; x1+='lto:'; x2
 ='&#115;&#109;&#105;&#116;&#97;&#110;&#97;'; x3 ='&#64;'; x4
@@ -126,17 +121,17 @@ a>';document.write(x1+x2+x3+x4+x5+x6+x7);</script>
             
 				<!-- Logo -->
 				<div id="logo" class="hide-ball disable-drag">
-					<a class="ajax-link" data-type="page-transition" href="http://smitana.ru">
+					<a class="ajax-link" data-type="page-transition" href="http://irkpk.ru">
 						<img class="black-logo" src="logoblack.png" alt="Logo Black">
 						<img class="white-logo" src="logo-1.png" alt="Logo White">
 					</a>
 				</div>
 				<!--/Logo -->             
 				
-							<nav class="menu-main-menu-container"><div class="nav-height"><div class="outer"><div class="inner"><ul id="menu-main-menu" data-breakpoint="1025" class="flexnav menu"><li id="menu-item-3423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3423 link menu-timeline"><a href="http://smitana.ru/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Портфолио">Портфолио</span></div></a></li>
-<li id="menu-item-3175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3175 link menu-timeline"><a href="http://smitana.ru/stories/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Мини проекты">Мини проекты</span></div></a></li>
-<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862 link menu-timeline"><a href="http://smitana.ru/about/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Обо мне">Обо мне</span></div></a></li>
-<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863 link menu-timeline"><a href="http://smitana.ru/contact/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Контакт">Контакт</span></div></a></li>
+							<nav class="menu-main-menu-container"><div class="nav-height"><div class="outer"><div class="inner"><ul id="menu-main-menu" data-breakpoint="1025" class="flexnav menu"><li id="menu-item-3423" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-3423 link menu-timeline"><a href="http://irkpk.ru/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Портфолио">Портфолио</span></div></a></li>
+<li id="menu-item-3175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3175 link menu-timeline"><a href="http://irkpk.ru/stories/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Мини проекты">Мини проекты</span></div></a></li>
+<li id="menu-item-2862" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2862 link menu-timeline"><a href="http://irkpk.ru/about/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Обо мне">Обо мне</span></div></a></li>
+<li id="menu-item-2863" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2863 link menu-timeline"><a href="http://irkpk.ru/contact/" data-type="page-transition" class="ajax-link"><div class="before-span"><span data-hover="Контакт">Контакт</span></div></a></li>
 </ul></div></div></div></nav>		
 				<!-- Menu Burger -->
                 <div class="button-wrap right menu disable-drag">
@@ -172,7 +167,7 @@ a>';document.write(x1+x2+x3+x4+x5+x6+x7);</script>
 							<div class="hero-title"><span>404</span></div>
 							<div class="hero-subtitle"><span>Страница не найдена</span></div>
                                 
-                            <a class="button-box ajax-link error-button" href="http://smitana.ru" data-type="page-transition">             
+                            <a class="button-box ajax-link error-button" href="http://irkpk.ru" data-type="page-transition">             
                                 <div class="clapat-button-wrap parallax-wrap hide-ball">
                                     <div class="clapat-button parallax-element">
                                         <div class="button-border rounded outline parallax-element-second">
@@ -203,14 +198,12 @@ a>';document.write(x1+x2+x3+x4+x5+x6+x7);</script>
                             <div class="button-text sticky left"><span data-hover></span></div>
                         </div>
 																
-											<div class="footer-middle"><div class="copyright">1999-2022 Smitana</div></div>
+											<div class="footer-middle"><div class="copyright">1999-2022 irkpk</div></div>
 												
 										
 											<div class="socials-wrap disable-drag">            	
 							<div class="socials-icon"><i class="fa fa-share-alt" aria-hidden="true"></i></div>
 							<div class="socials-text"></div>
-							<ul class="socials">
-								<li><span class="parallax-wrap"><a class="parallax-element" href="https://www.behance.net/smitana" target="_blank"><i class="fa fa-behance"></i></a></span></li><li><span class="parallax-wrap"><a class="parallax-element" href="https://www.instagram.com/smitanadesign/" target="_blank"><i class="fa fa-instagram"></i></a></span></li><li><span class="parallax-wrap"><a class="parallax-element" href="https://dribbble.com/smitana" target="_blank"><i class="fa fa-dribbble"></i></a></span></li>							</ul>
 						</div>
                                         
                 </div>
@@ -239,7 +232,7 @@ a>';document.write(x1+x2+x3+x4+x5+x6+x7);</script>
     <div id="rotate-device"></div>
 <script type="text/javascript" id="contact-form-7-js-extra">
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/smitana.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
+var wpcf7 = {"apiSettings":{"root":"http:\/\/irkpk.ru\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
 <script type="text/javascript" src="../js/scripts.js" id="contact-form-7-js"></script>
@@ -277,7 +270,7 @@ var wpcf7_recaptcha = {"sitekey":"6LfX9F0aAAAAAIyg1gJFRjaRUV5iSxbkGzGBPHmj","act
 <script type="text/javascript" id="colega-scripts-js-extra">
 /* <![CDATA[ */
 var ClapatColegaThemeOptions = {"enable_ajax":"1","enable_preloader":"1","share_social_network_list":""};
-var ClapatMapOptions = {"map_marker_image":"http:\/\/smitana.ru\/wp-content\/themes\/colega\/images\/marker.png","map_address":"Saint-Petersburg","map_zoom":"16","marker_title":"Smitana","marker_text":"Here we are","map_type":"satellite","map_api_key":""};
+var ClapatMapOptions = {"map_marker_image":"http:\/\/irkpk.ru\/wp-content\/themes\/colega\/images\/marker.png","map_address":"Saint-Petersburg","map_zoom":"16","marker_title":"irkpk","marker_text":"Here we are","map_type":"satellite","map_api_key":""};
 /* ]]> */
 </script>
 <script type="text/javascript" src="../js/scripts_1.js" id="colega-scripts-js"></script>
